@@ -1,0 +1,2 @@
+# coolboat
+discord bot
