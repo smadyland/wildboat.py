@@ -48,7 +48,6 @@ async def send_embedded_image(message, breed_name, breed_url):
         await message.channel.send("An error occured, please try again later.")
         print(f"RequestException: {e}")
 
-
 #commands
 @client.event
 async def on_message(message):
