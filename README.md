@@ -1,6 +1,6 @@
 # wildboat Discord Bot
 # big note to self and others reading
-for some reason the version that supported slash commands was never uploaded to my github and therefore lost to history. this sparked a complete rewrite of the bot in every aspect whether it be optimization, organinaztion, etc. stay posted or whatever dem gen z'ers say nowadays  
+for some reason the version that supported slash commands was never uploaded to my github and therefore lost to history. this sparked a complete rewrite of the bot in every aspect whether it be optimization, organinaztion, etc. stay posted or whatever dem gen z'ers say nowadays, will be updated soon.  
 
 WildBoat is a Discord bot written in Discord.py that uses several animal API's to send images of animals. The bot supports slash commands to make it easy for users to interact with the bot.
 
