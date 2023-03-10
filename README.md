@@ -8,7 +8,7 @@ wildboat is a Discord bot written in Discord.py that uses several animal API's t
 - Supports several animal categories like dogs, cats, foxes, etc.
 - Slash command support
 
-## Commands (some are wip, overhaul soon)
+## Commands
 
 - `/dog` - sends a random image of a dog
 - `/cat` - sends a random image of a cat
