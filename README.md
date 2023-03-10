@@ -24,9 +24,9 @@ wildboat is a Discord bot written in Discord.py that uses several animal API's t
 ## APIs Used
 
 - [SomeRandomAPI](https://some-random-api.ml/)
-- [dog.ceo](https://dog.ceo/dog-api/)
+- [TheDogAPI](https://dog.ceo/dog-api/)
 - [TheCatAPI](https://thecatapi.com/)
-- [shibe.online](https://shibe.online/)
+- [Shibe](https://shibe.online/)
 
 ## Installation and Usage
 
