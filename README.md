@@ -1,6 +1,6 @@
 # wildboat Discord Bot
 
-WildBoat is a Discord bot written in Discord.py that uses several animal API's to send images of animals. The bot supports slash commands to make it easy for users to interact with the bot.
+wildboat is a Discord bot written in Discord.py that uses several animal API's to send images of animals. The bot supports slash commands to make it easy for users to interact with the bot.
 
 ## Features
 
@@ -10,17 +10,23 @@ WildBoat is a Discord bot written in Discord.py that uses several animal API's t
 
 ## Commands (some are wip, overhaul soon)
 
-- `/racoon` - sends a random image of a raccoon
 - `/dog` - sends a random image of a dog
 - `/cat` - sends a random image of a cat
-- `/cat {breed specific}` - sends a random image of a cat breed of your choice
-- `/dog {breed specific}` - sends a random image of a dog breed of your choice
-- `ping` - test bots responsiveness
+- `/bird` - sends a random image and fun fact of a 
+- `/shiba` - sends a random image of a shiba
+- `/racoon` - sends a random image and fun fact of a raccoon
+- `/panda` - sends a random image and fun fact of a panda
+- `/red-panda` - sends a random image and fun fact of a red panda
+- `/kangaroo` - sends a random image and fun fact of a kangaroo
+- `/koala` - sends a random image and fun fact of a koala
+- `/fox` - sends a random image and fun fact of a fox
 
 ## APIs Used
 
-- [Dog API](https://dog.ceo/dog-api/)
+- [SomeRandomAPI](https://some-random-api.ml/)
+- [dog.ceo](https://dog.ceo/dog-api/)
 - [TheCatAPI](https://thecatapi.com/)
+- [shibe.online](https://shibe.online/)
 
 ## Installation and Usage
 
@@ -28,8 +34,8 @@ WildBoat is a Discord bot written in Discord.py that uses several animal API's t
 2. Install the required dependencies
 3. Create a new bot on the [Discord Developer Portal](https://discord.com/developers/applications).
 4. Add the bot to your server and copy the bot token.
-5. Add your bot token to the "client.run" function
-6. Run `python wildboat.py` or double click on `wildboat.py` to start the bot.
+5. Add your bot token to the `.env` file
+6. Run `python wildboat.py` in command prompt or double click on `wildboat.py` to start the bot.
 
 ## Contributing
 
