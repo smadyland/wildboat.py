@@ -10,6 +10,7 @@ WildBoat is a Discord bot written in Discord.py that uses several animal API's t
 
 ## Commands (some are wip, overhaul soon)
 
+- `/racoon` - sends a random image of a raccoon
 - `/dog` - sends a random image of a dog
 - `/cat` - sends a random image of a cat
 - `/cat {breed specific}` - sends a random image of a cat breed of your choice
