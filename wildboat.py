@@ -12,7 +12,7 @@ client = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 @client.event
 async def on_ready():
     print("Bot is ready!")
-    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="you."))
+    await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="you."))
     await client.tree.sync()
 # cat
 @client.tree.command(name="cat", description="Get a random cat image")
